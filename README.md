@@ -10,4 +10,4 @@
 - 📫 How to reach me: email => ayoubsaghro27@gmail.com;   
 -
 
-<img src="SAGHRo_ayoub.png" alt="cover image">
+<img src="IMG_0314.jpg" alt="cover image">
